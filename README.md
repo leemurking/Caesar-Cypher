@@ -2,7 +2,7 @@
 This is an encryption program that takes in text input from a user and encrypts the inputed text . It only encrypts letters with the user providing the encryption key which must be between numbers 1-26. 
 
 ## Author
-* Grant Okello
+* Grant Okello Mwenyewe
 
 ## Project Setup Instructions
 Follow the following setup instructions to run the program.
