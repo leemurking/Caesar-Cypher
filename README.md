@@ -35,6 +35,7 @@ Follow the following setup instructions to run the program.
 
 ## Known Bugs
 no bugs yet.
+well functioning application.
 
 
 Copyright (c) 2021 [MIT LICENSE](./LICENSE)
