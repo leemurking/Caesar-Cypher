@@ -10,6 +10,7 @@ Follow the following setup instructions to run the program.
 * Install the latest version of java.
 * Install gradle
 * To run the program in the terminal you can use 'gradle run' command
+* open the proect on the terminal.
 
 ## B.D.D
 
