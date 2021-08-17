@@ -7,7 +7,7 @@ This is an encryption program that takes in text input from a user and encrypts 
 ## Project Setup Instructions
 Follow the following setup instructions to run the program.
 * Install the java software development kit (sdk)
-* Install java.
+* Install the latest version of java.
 * Install gradle
 * To run the program in the terminal you can use 'gradle run' command
 
