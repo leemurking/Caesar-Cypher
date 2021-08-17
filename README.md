@@ -21,7 +21,7 @@ Follow the following setup instructions to run the program.
 
 
 ## Technologies Used
-* Intelli J IDEA
+* IntelliJ IDEA
 * java
 * Git
 
