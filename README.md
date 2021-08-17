@@ -39,4 +39,5 @@ well functioning application.
 
 
 Copyright (c) 2021 [MIT LICENSE](./LICENSE)
+All rights reserved to Grant Okello
 
