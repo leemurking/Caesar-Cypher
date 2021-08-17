@@ -5,8 +5,8 @@ This is an encryption program that takes in text input from a user and encrypts 
 * Grant Okello 
 
 ## Contact
-*phone:0768114967
-E-mail me @:jamesgrsnt964@gmail.com
+*Phone:0768114967
+*E-mail me @:jamesgrsnt964@gmail.com
 
 ## Project Setup Instructions
 Follow the following setup instructions to run the program.
