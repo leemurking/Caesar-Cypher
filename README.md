@@ -23,7 +23,7 @@ Follow the following setup instructions to run the program.
 ## Technologies Used
 * IntelliJ IDEA
 * java
-* Git
+* Git.
 
 
 
