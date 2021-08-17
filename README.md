@@ -29,6 +29,7 @@ Follow the following setup instructions to run the program.
 * IntelliJ IDEA
 * java
 * Git.
+*Deployed on Github
 
 
 
